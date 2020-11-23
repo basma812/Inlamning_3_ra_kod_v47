@@ -255,7 +255,7 @@ namespace Inlamning_3_ra_kod
             values = name;
         }
         /* METHOD: SetVar
-         * PURPOSE: 
+         * PURPOSE: store the values of X in the characters
          * PARAMETERS: --
          * RETURNS: --
          * FEATURES: NOT YET IMPLEMENTED
@@ -275,7 +275,7 @@ namespace Inlamning_3_ra_kod
             }
         }
         /* METHOD: GetVar
-         * PURPOSE: 
+         * PURPOSE: use the stored values
          * PARAMETERS: --
          * RETURNS: --
          * FEATURES: NOT YET IMPLEMENTED
